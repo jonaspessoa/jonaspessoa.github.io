@@ -4,7 +4,7 @@
 
 [Voltar ao portfólio](https://jonaspessoa.github.io/)
 
-**[Abrir prévia de desenvolvimento](https://jca-previa.vercel.app/)** — versão para avaliação; não é o site final nem indica aprovação do cliente.
+**[Abrir prévia de desenvolvimento](https://jcar-previa.vercel.app/)** — versão para avaliação; não é o site final nem indica aprovação do cliente.
 
 ## Objetivo
 Organizar a apresentação da oficina e de seus serviços, com um caminho simples para o visitante solicitar orçamento pelo WhatsApp.
