@@ -4,7 +4,7 @@
 
 [Abrir portfólio](https://jonaspessoa.github.io/) · [Perfil no GitHub](https://github.com/jonaspessoa)
 
-Este site reúne quatro projetos, com contexto do problema, tecnologias documentadas e links para showcases e demonstrações.
+Este site apresenta quatro projetos principais e duas prévias de sites em desenvolvimento, com contexto do problema, tecnologias documentadas e links para showcases e demonstrações.
 
 | Projeto | Apresentação | Experiência pública |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Revisado em **05/11/2026**. Marca e imagens institucionais pertencem aos respect
 
 ## Projetos de sites em desenvolvimento
 
-- [Breno Barber Shop — showcase documental](docs/breno-barber-shop.md): proposta, stack e abordagem de experiência web para barbearia.
-- [JCAR Centro Automotivo — showcase documental](docs/jcar-site.md): escopo do site institucional, serviços e planejamento de conteúdo.
+- [Breno Barber Shop — showcase documental](docs/breno-barber-shop.md): proposta, stack e abordagem de experiência web para barbearia. [Abrir prévia (não final)](https://breno-barber-shop-previa.vercel.app/).
+- [JCAR Centro Automotivo — showcase documental](docs/jcar-site.md): escopo do site institucional, serviços e planejamento de conteúdo. [Abrir prévia (não final)](https://jca-previa.vercel.app/).
 
 Esses dois registros documentam projetos em desenvolvimento; não indicam publicação ou homologação dos sites.
