@@ -44,6 +44,6 @@ Revisado em **05/11/2026**. Marca e imagens institucionais pertencem aos respect
 ## Projetos de sites em desenvolvimento
 
 - [Breno Barber Shop — showcase documental](docs/breno-barber-shop.md): proposta, stack e abordagem de experiência web para barbearia. [Abrir prévia (não final)](https://breno-barber-shop-previa.vercel.app/).
-- [JCAR Centro Automotivo — showcase documental](docs/jcar-site.md): escopo do site institucional, serviços e planejamento de conteúdo. [Abrir prévia (não final)](https://jca-previa.vercel.app/).
+- [JCAR Centro Automotivo — showcase documental](docs/jcar-site.md): escopo do site institucional, serviços e planejamento de conteúdo. [Abrir prévia (não final)](https://jcar-previa.vercel.app/).
 
 Esses dois registros documentam projetos em desenvolvimento; não indicam publicação ou homologação dos sites.
