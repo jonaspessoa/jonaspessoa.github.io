@@ -40,3 +40,10 @@ CFIC, EduCore e Contratos usam capturas reais de ambientes demonstrativos revisa
 Os repositórios operacionais, dados institucionais e credenciais não fazem parte do portfólio. Stack, fluxos e limites são detalhados nos showcases de cada projeto; o site não promete homologação de produção.
 
 Revisado em **05/11/2026**. Marca e imagens institucionais pertencem aos respectivos titulares.
+
+## Projetos de sites em desenvolvimento
+
+- [Breno Barber Shop — showcase documental](docs/breno-barber-shop.md): proposta, stack e abordagem de experiência web para barbearia.
+- [JCAR Centro Automotivo — showcase documental](docs/jcar-site.md): escopo do site institucional, serviços e planejamento de conteúdo.
+
+Esses dois registros documentam projetos em desenvolvimento; não indicam publicação ou homologação dos sites.
